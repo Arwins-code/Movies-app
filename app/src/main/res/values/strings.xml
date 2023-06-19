@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Movie apps</string>
+    <string name="version">Version: 1.0.0</string>
+    <string name="unlike">Unlike</string>
+    <string name="like">Like</string>
+    <string name="about">An Android app built with Jetpack Compose consuming TMDB API to help movies to have current information of the trending, popular, upcoming many other films.</string>
+</resources>
